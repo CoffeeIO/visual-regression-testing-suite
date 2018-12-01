@@ -10,16 +10,60 @@
 .em {
   font-style: italic;
 }
+.box-200 {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  position: relative;
+}
 .box-500 {
+  position: relative;
   height: 500px;
-  border: 2px solid red;
   width: 500px;
   margin: 10px;
   padding: 10px;
 }
+.border-red {
+  border: 2px solid red;
+}
 .border-blue {
-  border-color: blue;
+  border: 2px solid blue;
+
 }
 .underline {
   text-decoration: underline;
+}
+.offset-right {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+.offset-far {
+  position: absolute;
+  top: 100%;
+  left: 10px;
+}
+.padding-50 {
+  padding: 50px;
+}
+.width-400 {
+  width: 400px;
+}
+
+.fix-img {
+  height: 200px;
+  width: 300px;
+}
+.bg-img {
+  background-image: url("../images/pug.jpg");
+  background-size: contain;
+
+}
+.bg-img-2 {
+  background-image: url("../images/doug-the-pug-1516375006.jpg");
+  background-size: contain;
+}
+.height-150 {
+  height: 150px;
 }
