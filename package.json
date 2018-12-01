@@ -1,0 +1,11 @@
+{
+  "name": "visual-regression-testing-suite",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "resemblejs": "^2.10.3"
+  },
+  "author": "CoffeeIO",
+  "license": "MIT"
+}
