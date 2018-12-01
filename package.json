@@ -5,7 +5,8 @@
   "scripts": {
     "clean": "rm -rf files && rm state.txt",
     "before": "npm run clean && cp -R before files && echo 'before' >> state.txt",
-    "after": "npm run clean && cp -R after files  && echo 'after' >> state.txt"
+    "after": "npm run clean && cp -R after files  && echo 'after' >> state.txt",
+    "start": "python -m SimpleHTTPServer"
   },
   "dependencies": {},
   "devDependencies": {

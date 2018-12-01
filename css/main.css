@@ -1,0 +1,25 @@
+.red {
+  color: red;
+}
+.red1 {
+  color: #ff3c3c;
+}
+.red2 {
+  color: #e82323;
+}
+.em {
+  font-style: italic;
+}
+.box-500 {
+  height: 500px;
+  border: 2px solid red;
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+}
+.border-blue {
+  border-color: blue;
+}
+.underline {
+  text-decoration: underline;
+}
