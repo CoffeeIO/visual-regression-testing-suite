@@ -1,6 +1,6 @@
 # Visual regression testing suite
 
-Hosted on github
+Hosted on github: https://coffeeio.github.io/visual-regression-testing-suite/
 
 Check `state.txt` to see if site is hosting after or before files
 
