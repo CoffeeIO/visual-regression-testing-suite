@@ -12,3 +12,16 @@ npm run before
 ```bash
 npm run after
 ```
+
+### Results
+Images of before state `/data/before`
+
+Images of after state `/data/after`
+
+There is a results folder for each solution tests in `/data/*`.
+
+Note that Screenster only has one folder.
+
+Content mode is files named: `testXc`
+
+Visual mode is files named: `testXv`
